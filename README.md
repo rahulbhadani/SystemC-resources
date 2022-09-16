@@ -9,3 +9,4 @@
 5. http://cfs-vision.com/2017/12/13/learning-systemc-005-signal-channels/
 6. https://learnsystemc.com/
 7. https://ati.ttu.ee/IAY0340/systemc.pdf
+8. https://staff.fnwi.uva.nl/s.polstra/psa2017/psa2017_systemc_tutorial.pdf
