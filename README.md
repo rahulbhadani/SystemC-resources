@@ -5,3 +5,4 @@
 3. http://www.ece.uah.edu/~milenka/cpe626-04F/secure/systemc/cocentric_systemC/tutorial/tutorial.html
 4. https://systemc.org/about/systemc/overview/
 5. http://cfs-vision.com/2017/12/13/learning-systemc-005-signal-channels/
+6. https://learnsystemc.com/
